@@ -1,29 +1,9 @@
-/*****         tag styles          *****/
 
 body {
   text-align: center;
 }
 
-
-
-
-
-
-/*****         class styles        *****/
-
-
 .container {
   background-color: #5b8c5a;
-  /* position: fixed; */
-  top: 0;
   width: 100%;
 }
-
-.main-event {
-  background-color: #e8f9e9;
-  height: 50%
-}
-
-
-
-/*****          id styles          *****/
